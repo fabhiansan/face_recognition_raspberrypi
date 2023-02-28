@@ -1,12 +1,10 @@
 ---
-kode : IFXXXX
+kode : IF5200
 tanggal : 2023-02-25 23:16
 modified_date : Saturday 25th February 2023 23:16:28
-quick_summary :
-tags : []
 ---
 
-# [[IF5200 - Research]]
+# IF5200 - Research
 Default Camera Resolution = 340 x 240
 # Raspberry Pi 2B
 - 900 Mhz Quad core ARM 32 bit Cortex-A7
