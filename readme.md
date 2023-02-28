@@ -9,7 +9,7 @@ Default Camera Resolution = 340 x 240
 # Raspberry Pi 2B
 - 900 Mhz Quad core ARM 32 bit Cortex-A7
 - 1 GB RAM
-| Model     | Camera Resolution | Window Size | FPS       | CPU usage | Memory Usage |                       |
+| Model     | Camera Resolution | Window Size | FPS       | CPU usage | Memory Usage | Notes                 |
 | --------- | ----------------- | ----------- | --------- | --------- | ------------ | --------------------- |
 | No model  | Default           | 200         | 76.15     | 42 %      | 345 MB       |                       |
 | No Model  | Default           | No Window   | 114362.25 | 9 %       | 344 MB       |                       |
@@ -26,7 +26,6 @@ Default Camera Resolution = 340 x 240
 | FrontFace | 32x32             | 200         | 30.75     | 72        | 247          | Face Read but blur    |
 | FrontFace | 192x128           | 200         | 34.49     | 75 %      | 247 MB       |                       |
 | FrontFace | 96x64             | 200         | 40.11     | -         | -            |                       |
-|           |                   |             |           |           |              |                       |
 ## ScreenShot
 
 32x32
